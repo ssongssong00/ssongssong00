@@ -3,25 +3,25 @@
 ## Hi there 👋 
 
 Good day! I am Seongwoo Park who is interested in Data Analytics
-- ✍🏻 I’m currently learning 'Machine Learning'
-- 👩🏻‍🎓 I'm majoring in e-business, at Ajou University
-- 📞 How to reach me: shashain123@ajou.ac.kr
-- 🐶 My personal blog: https://blog.naver.com/seongwoo1205
+- I’m currently learning 'Machine Learning'
+- I'm majoring in e-business, at Ajou University
+- How to reach me: shashain123@ajou.ac.kr
+- My personal blog: https://blog.naver.com/seongwoo1205
 
-#### 🌠 Experience
+#### Experience
 1. Ajou univ. Business Analytics Undergraduate Researcher
 2. Ajou univ. Development and research of business models related to satellite images
 
-#### 🌠 Awards
-1. KRX
-2. KB Card
+#### Awards
+1. KRX : Financial Big Data Idea Contest
+2. KB Card : KB Pay X Fun - Idea for activating KB Pay
 3. Hyundai 
 
-#### 🌠 Project
-1. BloodChain
-2. KRX
+#### Project
+1. Blockchain-based electronic blood donation platform
+2. Forecasting the volatility of the closing price compared to the opening price of the day 
 
-#### 🌠 Paper & Patent
+#### Paper & Patent
 1. Proposal  of  Promotion  Strategy  of  Mobile  Easy Payment  Service  Using  Topic  Modeling  and PEST-SWOT  Analysis
 2. A Researh for Consumer Dissatisfaction and Institutional Improvement of The Overseas Direct Purchase using Exploratory Data Analysis
 3. Method for intergrating and managing blood donation information, server and system using
