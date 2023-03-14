@@ -5,7 +5,7 @@
 Good day! I am Seongwoo Park who is interested in Data Analytics
 - I’m currently learning 'Machine Learning'
 - I'm majoring in e-business, at Ajou University
-- How to reach me: shashain123@ajou.ac.kr
+- How to reach me: seongwoo1205@gmail.com
 - My personal blog: https://blog.naver.com/seongwoo1205
 
 #### 🥇 Experience
