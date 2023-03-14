@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HELLOSSONG&fontSize=70&animation=twinkling)
 
-## Hi There 👋 
+## Hi there 👋 
 
 Good day! I am Seongwoo Park who is interested in Data Analytics
 - ✍🏻 I’m currently learning 'Machine Learning'
@@ -20,6 +20,13 @@ Good day! I am Seongwoo Park who is interested in Data Analytics
 #### 🌠 Project
 1. BloodChain
 2. KRX
+
+#### 🌠 Paper & Patent
+1. Proposal  of  Promotion  Strategy  of  Mobile  Easy Payment  Service  Using  Topic  Modeling  and PEST-SWOT  Analysis
+2. A Researh for Consumer Dissatisfaction and Institutional Improvement of The Overseas Direct Purchase using Exploratory Data Analysis
+3. Method for intergrating and managing blood donation information, server and system using
+4. Method for providing drone filming location recommendation information, server and system using
+
 
 <h3>🛠 Tech Stack 🛠</h3>
 Techs that I've used at least once
