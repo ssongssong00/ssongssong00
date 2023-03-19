@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HELLOSSONG&fontSize=70&animation=twinkling)
 
-## Hi there 👋 
-
-Good day! I'm Seongwoo Park
+## Hi there 👋  I'm Seongwoo Park
 - I’m currently learning 'Data Analytics'
 - I'm majoring in e-business, at Ajou University
 - How to reach me: seongwoo1205@gmail.com
@@ -15,7 +13,7 @@ Good day! I'm Seongwoo Park
 #### 🥇 Awards
 1. KRX : Financial Big Data Idea Contest
 2. KB Card : KB Pay X Fun - Idea for activating KB Pay
-3. Hyundai 
+3. Hyundai
 
 #### 🥇 Project
 1. Blockchain-based electronic blood donation platform
