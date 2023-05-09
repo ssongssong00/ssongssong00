@@ -13,11 +13,14 @@
 #### 🥇 Awards
 1. KRX : Financial Big Data Idea Contest
 2. KB Card : KB Pay X Fun - Idea for activating KB Pay
-3. Hyundai
+3. 한국서비스경영학회 현대해상 대학생 경진대회
 
 #### 🥇 Project
 1. Blockchain-based electronic blood donation platform
 2. Forecasting the volatility of the closing price compared to the opening price of the day 
+3. 상장 리츠 주가 등락 에측 모형 개발 및 대시보드 제작
+4. 혜택을 커스터마이징하다 KB BeneFit - 내 삶 속의 간편 결제 파트너
+5. 텍스트마이닝 기법을 활용한 팝업 스토어 및 대면 행사를 활용한 새로운 기회 탐색
 
 #### 🥇 Paper & Patent
 1. Proposal  of  Promotion  Strategy  of  Mobile  Easy Payment  Service  Using  Topic  Modeling  and PEST-SWOT  Analysis
