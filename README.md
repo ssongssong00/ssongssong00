@@ -4,7 +4,7 @@
 - I’m currently learning 'Data Analytics'
 - I'm majoring in e-business, at Ajou University
 - How to reach me: seongwoo1205@gmail.com
-- My personal blog: [https://the-pale-blue-dot.tistory.com/]
+- My personal blog: https://the-pale-blue-dot.tistory.com/
 
 #### 🥇 Experience
 1. Ajou univ. Business Analytics Undergraduate Researcher
