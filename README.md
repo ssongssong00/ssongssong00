@@ -18,7 +18,7 @@
 #### 🥇 Project
 1. Blockchain-based electronic blood donation platform
 2. Forecasting the volatility of the closing price compared to the opening price of the day 
-3. 상장 리츠 주가 등락 에측 모형 개발 및 대시보드 제작
+3. 상장 리츠 투자플랫폼 SAR
 4. 혜택을 커스터마이징하다 KB BeneFit - 내 삶 속의 간편 결제 파트너
 5. 텍스트마이닝 기법을 활용한 팝업 스토어 및 대면 행사를 활용한 새로운 기회 탐색
 
