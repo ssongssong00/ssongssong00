@@ -22,13 +22,16 @@
 4. 혜택을 커스터마이징하다 KB BeneFit - 내 삶 속의 간편 결제 파트너
 5. 텍스트마이닝 기법을 활용한 팝업 스토어 및 대면 행사를 활용한 새로운 기회 탐색
 
-#### 🥇 Paper & Patent
+#### 🥇 Paper
 1. Proposal  of  Promotion  Strategy  of  Mobile  Easy Payment  Service  Using  Topic  Modeling  and PEST-SWOT  Analysis
 2. A Researh for Consumer Dissatisfaction and Institutional Improvement of The Overseas Direct Purchase using Exploratory Data Analysis
-3. Method for intergrating and managing blood donation information, server and system using
-4. Method for providing drone filming location recommendation information, server and system using
 
-
+#### 🥇 Patent
+1. Method for intergrating and managing blood donation information, server and system using(application)
+2. Method for providing drone filming location recommendation information, server and system using(application)
+3. Personnel Evaluation Management System And Method(application)
+4. Method And System To Sell Survey Data Based On Blockchain Network(application)
+ 
 <h3>🛠 Tech Stack 🛠</h3>
 
 <p>
